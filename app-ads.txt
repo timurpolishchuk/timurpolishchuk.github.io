@@ -550,4 +550,3 @@ lunamedia.io, 525, DIRECT, 524ecb396915caaf
 themediagrid.com, R28I9J, DIRECT, 35d5010d7789b49d
 advertising.com, 28734, RESELLER
 improvedigital.com, 1678, RESELLER
-google.com, pub-1264299070048085, DIRECT, f08c47fec0942fa0
